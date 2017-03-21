@@ -1,0 +1,7 @@
+en
+wordnik
+.DS_Store
+__pycache__/
+dist/
+*.py[cod]
+*$py.class
